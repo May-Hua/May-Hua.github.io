@@ -6,9 +6,8 @@
 }
 body {
 	/*background-color:black;*/
-  width:100%;
   background: url("../images/lover.jpg");
-  /*background-size: 100%;*/
+  background-size: 100%;
   overflow:hidden;
 }
 .lovermove {
